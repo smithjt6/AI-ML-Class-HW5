@@ -1,0 +1,4 @@
+Conda Environment Name: AI-ML-CLASS-HW5
+RMSE of model: 0.9146192345976284
+Hidden layer size: 100
+Max Iterations: 1000
